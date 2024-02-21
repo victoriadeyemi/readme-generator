@@ -74,7 +74,6 @@ const questions = [
     default: "MIT",
 },
 
-
 ];
 
 // function to write README file
