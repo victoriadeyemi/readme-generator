@@ -6,15 +6,12 @@ ReadMe Generator Application made with javaScript
 
 
 ## Table of Contents
-- [README Generator](#readme-generator)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contribution](#contribution)
-  - [Tests](#tests)
-  - [License](#license)
-  - [Questions](#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contribution](#contribution)
+* [Tests](#tests)
+* [Questions](#questions)
+* [License](#license)
 
 
 ## Installation

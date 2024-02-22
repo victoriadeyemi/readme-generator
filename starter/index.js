@@ -14,25 +14,19 @@ const questions = [
 {
     type: "input",
     note: "What is your email address?",
-    name: "email address",
+    name: "email",
 },
 
 {
     type: "input",
     note: "What it the title of your project?",
-    name: "project title",
+    name: "title",
 },
 
 {
     type: "input",
     note: "How can you describe your project?",
     name: "description",
-},
-
-{
-    type: "input",
-    note: "What does your project contain?",
-    name: "table of contents",
 },
 
 {
