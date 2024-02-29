@@ -38,7 +38,7 @@ Use the npm test command in the termainal to run tests.
 If you have questions about this repository or application, you can email me at <a href="mailto:victoriadeyemi1038@gmail.com">victoriadeyemi1038@gmail.com</a>  or visit my GitHub page at [victoriadeyemi](https://github.com/victoriadeyemi)
 
 ## Video Walkthrough Link
-[Watch the Walkthrough Video](https://drive.google.com/file/d/1296NvZw1SaBgfADOu_zSkS_uMPxtu3qS/view)
+[Watch the Walkthrough Video](https://app.screencastify.com/v2/manage/videos/xzAgHhnqwEqC90ZHF936)
 
 ## License
 This application is licensed under the MIT License
