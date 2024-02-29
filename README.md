@@ -31,9 +31,10 @@ Clone your own repository, create your branch and submit a pull request.
 Use the npm test command in the termainal to run tests. 
 
 ## Questions
-You can submit questions in the following ways:
+If you have questions about this repository or application, you can email me at <a href="mailto:victoriadeyemi1038@gmail.com">victoriadeyemi1038@gmail.com</a>  or visit my GitHub page at [victoriadeyemi](https://github.com/victoriadeyemi)
 
-If you have questions, you can email me at <a href="mailto:victoriadeyemi1038@gmail.com">victoriadeyemi1038@gmail.com</a>  or visit my GitHub page at [victoriadeyemi](https://github.com/victoriadeyemi)
+## Video Walkthrough Link
+[Watch the Walkthrough Video](https://drive.google.com/file/d/1296NvZw1SaBgfADOu_zSkS_uMPxtu3qS/view)
 
 ## License
 This application is licensed under the MIT License
