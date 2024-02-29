@@ -2,7 +2,7 @@
 
 
 ## Description
-ReadMe Generator Application made with javaScript
+This is a ReadMe Generator application that is made using JavaScript
 
 
 ## Table of Contents
@@ -18,10 +18,10 @@ ReadMe Generator Application made with javaScript
 npm install
 
 ## Usage
-This application generates a readme file based on the user's response to automated questions.
+This application generates a README file based on the user's response to automated questions.
 
 ## Contribution
-Clone your own repository, create your branch and submit a pull request.
+To contribute, clone your own repository, create your branch and submit a pull request.
 
 ## Tests
 npm test
@@ -31,8 +31,8 @@ npm test
 MIT
 
 ## Questions
-You can submit questions in the following ways:
+ If you have any questions, you can submit them in the following ways:
 
-If you have questions, you can email me at <a href="mailto:victoriadeyemi1038@gmail.com">victoriadeyemi1038@gmail.com</a>  or visit my GitHub page at [victoriadeyemi](https://github.com/victoriadeyemi)
+Email me at <a href="mailto:victoriadeyemi1038@gmail.com">victoriadeyemi1038@gmail.com</a>  or visit my GitHub page at [victoriadeyemi](https://github.com/victoriadeyemi)
 
 
