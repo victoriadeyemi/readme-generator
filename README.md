@@ -19,13 +19,18 @@ When creating an open source project on GitHub, it's important to have a high-qu
 
 
 ## Installation
-npm install
+The first step is to install [Node.js](https://nodejs.org/en) onto your computer. 
+Open your terminal, navigate to the project directory of choice to install the README Generator application. 
+Install npm by running the command "npm install" in the terminal.
+Invoke the application by running the command "node index.js"
+
 
 ## Usage
-This application generates a readme file based on the user's response to automated questions. The application is invoked by using the following command: node index.js
+This application generates a README file based on the user's response to automated questions when the application is invoked. The application is invoked by using the following command: node index.js.
+This enables a smooth and seamless process for a developer to create a quality README file for the application being executed.
 
 ## Contribution
-Clone your own repository, create your branch and submit a pull request.
+If you wish to contribute to this application, you are welcome to do to so. Simply clone this repository, create your branch and submit a pull request. Please provide a clear title to enable me and others understand what you have contributed. Cheers.
 
 ## Tests
 Use the npm test command in the termainal to run tests. 
