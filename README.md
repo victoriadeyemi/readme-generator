@@ -7,9 +7,9 @@ When creating an open source project on GitHub, it's important to have a high-qu
 
 
 ## Table of Contents
-- [README Generator](#readme-generator)
+- [Table of Contents](#table-of-contents)
   - [Description](#description)
-  - [Table of Contents](#table-of-contents)
+  - []()
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contribution](#contribution)
