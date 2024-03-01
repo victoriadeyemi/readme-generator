@@ -41,4 +41,5 @@ If you have questions about this repository or application, you can email me at 
 [Watch the Walkthrough Video](https://drive.google.com/file/d/1a9hxfZ3eR0ho2UCAX7uDDVlPqJF_YDEH/view?usp=sharing)
 
 ## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 This application is licensed under the MIT License
